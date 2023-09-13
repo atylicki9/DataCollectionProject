@@ -1,5 +1,5 @@
 # DataCollectionProject
-Course Assignment for C# 2 at St Pete College. Below are the instructions provided by the professor.
+Course Assignment for C# Course that I took in Summer 2023. Below are the instructions provided by the professor.
 
 
 This must be a Universal Windows Application.
